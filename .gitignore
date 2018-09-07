@@ -1,1 +1,5 @@
 node_modules/
+GoogleTextForm/
+conversationData.txt
+conversationDictionary.npy
+Inbox.csv
